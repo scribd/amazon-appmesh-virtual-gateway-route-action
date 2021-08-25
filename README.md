@@ -24,7 +24,7 @@ Creates an Amazon App Mesh Virtual Gateway Route
 
 ```yaml
 - name: App Mesh Virtual Gateway Route
-  uses: scribd/amazon-appmesh-virtual-gateway-route@master
+  uses: scribd/amazon-appmesh-virtual-gateway-route-action@v1
   with:
     name: my-virtual-route-name
     mesh-name: my-mesh-name
@@ -70,7 +70,7 @@ Deleting the resource requires `name`, `mesh-name`, `virtual-gateway-name`, and 
 
 ```yaml
 - name: App Mesh Virtual Gateway Route
-  uses: scribd/amazon-appmesh-virtual-gateway-route@master
+  uses: scribd/amazon-appmesh-virtual-gateway-route-action@v1
   with:
     name: my-virtual-route-name
     mesh-name: my-mesh-name
