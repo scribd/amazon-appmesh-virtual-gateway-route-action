@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.10...v1.0.11) (2021-09-20)
+
+
+### Bug Fixes
+
+* **deps:** bump tmpl from 1.0.4 to 1.0.5 ([8155916](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/81559161301b7b2097463e465e55d679e849ee6c))
+
 ## [1.0.10](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.9...v1.0.10) (2021-09-20)
 
 
