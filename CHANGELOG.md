@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.14...v1.0.15) (2021-09-29)
+
+
+### Bug Fixes
+
+* **deps:** bump @actions/core from 1.5.0 to 1.6.0 ([3bf811d](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/3bf811d2d204f5fdbd91e0789047b2f81578fde2))
+
 ## [1.0.14](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.13...v1.0.14) (2021-09-27)
 
 
