@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.17...v1.0.18) (2021-10-13)
+
+
+### Bug Fixes
+
+* **deps:** bump @aws-sdk/client-app-mesh from 3.36.0 to 3.36.1 ([70b8cc6](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/70b8cc63494213e20a2fb4385084349e38cbf770))
+
 ## [1.0.17](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.16...v1.0.17) (2021-10-13)
 
 
