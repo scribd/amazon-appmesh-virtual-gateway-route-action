@@ -1,3 +1,10 @@
+## [1.0.23-alpha.1](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.22...v1.0.23-alpha.1) (2021-12-09)
+
+
+### Bug Fixes
+
+* **deps:** yarn upgrade ([2cde3f2](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/2cde3f20d580654d38f2c26ef982dc0baa18c884))
+
 ## [1.0.22](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.21...v1.0.22) (2021-12-09)
 
 
