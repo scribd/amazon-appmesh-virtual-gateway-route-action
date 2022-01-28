@@ -1,3 +1,10 @@
+## [1.0.26-alpha.1](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.25...v1.0.26-alpha.1) (2022-01-28)
+
+
+### Bug Fixes
+
+* if cannot parse err, just print ([f6ce773](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/f6ce7732c8b645a8162c1e540f6482efb4f88a1c))
+
 ## [1.0.25](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.24...v1.0.25) (2022-01-28)
 
 
