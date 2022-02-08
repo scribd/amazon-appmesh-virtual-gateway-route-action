@@ -1,3 +1,10 @@
+## [1.0.28](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.27...v1.0.28) (2022-02-08)
+
+
+### Reverts
+
+* Revert "ci: fix: reset alpha branch on release" ([7debe37](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/7debe3750b74201d57c9f69c80e7268ede5e29ad))
+
 ## [1.0.27](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.26...v1.0.27) (2022-02-08)
 
 
