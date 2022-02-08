@@ -1,3 +1,10 @@
+## [1.0.27](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.26...v1.0.27) (2022-02-08)
+
+
+### Bug Fixes
+
+* **deps:** bump @aws-sdk/util-waiter from 3.46.0 to 3.49.0 ([686fda2](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/686fda255d68c6cfcbf955aed8beeb2a6c0be446))
+
 ## [1.0.26](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.25...v1.0.26) (2022-02-08)
 
 
