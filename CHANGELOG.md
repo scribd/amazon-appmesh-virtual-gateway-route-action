@@ -1,3 +1,10 @@
+## [1.0.31](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.30...v1.0.31) (2022-02-11)
+
+
+### Bug Fixes
+
+* ci: new_release_channel is undefined when default channel is published ([2f6da45](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/2f6da4529fb47c5928626e8e6df21f53d60fa0e3))
+
 ## [1.0.30](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.29...v1.0.30) (2022-02-11)
 
 
