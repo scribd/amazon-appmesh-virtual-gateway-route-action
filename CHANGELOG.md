@@ -1,3 +1,10 @@
+## [1.0.35](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.34...v1.0.35) (2022-04-06)
+
+
+### Bug Fixes
+
+* **deps:** bump yaml from 1.10.2 to 2.0.0 ([f9950e8](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/f9950e878a6550e869eb2282478cf32fd9705343))
+
 ## [1.0.34](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.33...v1.0.34) (2022-03-30)
 
 
