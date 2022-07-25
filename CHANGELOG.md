@@ -1,3 +1,12 @@
+## [1.0.48](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.47...v1.0.48) (2022-07-25)
+
+
+### Bug Fixes
+
+* **deps:** update to client 0.131.0 ([c05af93](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/c05af937e54a42ac383d88056ce9483f48c623f8))
+* **deps:** yarn upgrade 20220722 ([dc09ec8](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/dc09ec88c23e24013d9f4c818a5573110a256c4e))
+* **deps:** yarn upgrade vercel 0.34.0 ([5d9a696](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/5d9a6964b5d6152c7861f979387ab4438dc47624))
+
 ## [1.0.47](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.46...v1.0.47) (2022-07-22)
 
 
