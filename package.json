@@ -4,6 +4,7 @@
   "description": "Creates an Amazon App Mesh Virtual Gateway Route.",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "lint": "eslint **.js --fix",
     "package": "ncc build index.js -o dist",
     "test": "eslint **.js --fix && jest --config .jest.config.js"
@@ -28,6 +29,7 @@
     "@actions/core": "^1.9.0",
     "@aws-sdk/client-app-mesh": "^3.131.0",
     "@aws-sdk/util-waiter": "^3.127.0",
+    "lodash": "^4.17.21",
     "yaml": "^2.0.0"
   },
   "devDependencies": {
