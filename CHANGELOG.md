@@ -1,3 +1,10 @@
+## [1.0.57-alpha.2](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.57-alpha.1...v1.0.57-alpha.2) (2022-12-02)
+
+
+### Bug Fixes
+
+* **deps:** pnpm update 2022-12-02 ([8651a59](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/8651a5904a67e93a3186e4934b8ace0372b38327))
+
 ## [1.0.57-alpha.1](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.56...v1.0.57-alpha.1) (2022-10-21)
 
 
