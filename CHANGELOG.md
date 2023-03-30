@@ -1,3 +1,10 @@
+## [1.0.58-alpha.1](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.57...v1.0.58-alpha.1) (2023-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update aws sdk ([7a6858f](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/7a6858ff0f8649fc12c75dbc94fc61c52caf2fa4))
+
 ## [1.0.57](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.56...v1.0.57) (2023-03-30)
 
 
