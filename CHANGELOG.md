@@ -1,3 +1,10 @@
+## [1.0.58](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.57...v1.0.58) (2025-03-25)
+
+
+### Bug Fixes
+
+* DEVPLAT-3294 Update github actions due to ubuntu-20.04 deprecation ([c90d4ad](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/commit/c90d4ad582f4e006ceb17c136607702b330f2ea6))
+
 ## [1.0.57](https://github.com/scribd/amazon-appmesh-virtual-gateway-route-action/compare/v1.0.56...v1.0.57) (2023-03-30)
 
 
